@@ -27,15 +27,14 @@ h3 {
   margin: auto;
   padding-top: 10px;
   padding-bottom: 10px;
-  padding-left: 10px;
-  padding-right: 10px;
+  margin: auto;
 }
 
 p {
   width: 97%;
   margin: auto;
   color: #D0C9C0;
-  padding: 10px;
+  margin: auto;
 }
 
 .attribution {
