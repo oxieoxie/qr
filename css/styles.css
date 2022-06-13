@@ -22,21 +22,19 @@ body {
   width: 95%;
 }
 
-.second {
-  padding: 3px;
-}
-
 h3 {
   width: 85%;
   margin: auto;
   padding-top: 10px;
   padding-bottom: 10px;
+  font-size:2vw;
 }
 
 p {
-  width: 99%;
+  width: 97%;
   margin: auto;
   color: #D0C9C0;
+  font-size:2vw;
 }
 
 .attribution {
